@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "959803386635",
+    "project_id": "litechat-8966b",
+    "storage_bucket": "litechat-8966b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959803386635:android:3c6cab4fb98a3fd0e5d00e",
+        "android_client_info": {
+          "package_name": "com.example.litechat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjhofxfxBwtlRYo2l4C2B8myFWEmF-qSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
